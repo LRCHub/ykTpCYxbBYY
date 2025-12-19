@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "違う曲にしようよ",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-19T16:31:17.655516Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "違う曲にしようよ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_違う曲にしようよ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "違う曲にしようよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_違う曲にしようよ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "違う曲にしようよ (Instrumental)",
+      "artist": "Zutomayo",
+      "has_synced": true,
+      "path": "select/03_違う曲にしようよ_(Instrumental)_Zutomayo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "違う曲にしようよ - Flow Different",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_違う曲にしようよ_-_Flow_Different_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "違う曲にしようよ (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_違う曲にしようよ_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "違う曲にしようよ (本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_違う曲にしようよ_(本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "違う曲にしようよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_違う曲にしようよ_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
